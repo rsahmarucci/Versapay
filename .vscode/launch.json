@@ -1,0 +1,18 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "DEV",
+      "request": "launch",
+      "type": "al",
+      "environmentType": "OnPrem",
+      "server": "http://bc-dev.maruccisports.local",
+      "serverInstance": "bc14-UAT",
+      "authentication": "Windows",
+      "breakOnError": true,
+      "enableLongRunningSqlStatements": true,
+      "enableSqlInformationDebugger": true,
+      "tenant": "default"
+    }
+  ]
+}

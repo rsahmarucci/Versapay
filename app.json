@@ -1,0 +1,26 @@
+{
+  "id": "5f8e60ba-cc75-4d5e-997d-984b68a3c683",
+  "name": "Versapay",
+  "publisher": "Marucci Sports",
+  "version": "0.0.0.1",
+  "brief": "",
+  "description": "Export/Import Functions for the simple SFTP interface of Versapay",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.45365.0",
+  "application": "14.19.45386.0",
+  "target": "Internal",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50199
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "3.2"
+}
